@@ -1,2 +1,2 @@
-# FInalWebsitePortfolio
+# FinalWebsitePortfolio
 Sushil Portfolio
