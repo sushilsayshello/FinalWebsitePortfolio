@@ -1,2 +1,0 @@
-# FinalWebsitePortfolio
-Sushil Portfolio
